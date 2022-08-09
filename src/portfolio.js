@@ -222,14 +222,14 @@ const skills = {
         },
         {
           skillName: "Adobe Photoshop",
-          fontAwesomeClassname: "simple-icons:photoshop",
+          fontAwesomeClassname: "simple-icons:adobe",
           style: {
             color: "#F24E1E",
           },
         },
         {
           skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:illustrator",
+          fontAwesomeClassname: "simple-icons:adobe",
           style: {
             color: "#F24E1E",
           },
@@ -243,7 +243,7 @@ const skills = {
         },
         {
           skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:XD",
+          fontAwesomeClassname: "simple-icons:adobe",
           style: {
             color: "#F24E1E",
           },
