@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Sharad Ishi Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://sharadishi.me/",
   },
 };
 
@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Sharad Ishi",
   logo_name: "sharadishi",
-  nickname: "CyberTros",
+  nickname: "Front-End Enginneer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -72,11 +72,11 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Front End Engineer",
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Creating application backend in Node, Express & PHP",
+        "⚡ Creating application backend in Node, Express ",
       ],
       softwareSkills: [
         {
@@ -123,17 +123,17 @@ const skills = {
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "sass",
+          fontAwesomeClassname: "simple-icons:sass",
           style: {
-            color: "#47A248",
+            color: "#c66394",
           },
         },
         {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "simple-icons:bootstrap",
           style: {
-            color: "#CB3837",
+            color: "#663399",
           },
         },
         {
@@ -150,20 +150,20 @@ const skills = {
             color: "#000",
           },
         },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Adnroid",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3bb273",
-          },
-        },
+        // {
+        //   skillName: "PHP",
+        //   fontAwesomeClassname: "simple-icons:php",
+        //   style: {
+        //     color: "#663399",
+        //   },
+        // },
+        // {
+        //   skillName: "Adnroid",
+        //   fontAwesomeClassname: "simple-icons:android",
+        //   style: {
+        //     color: "#3bb273",
+        //   },
+        // },
       ],
     },
     {
@@ -216,6 +216,34 @@ const skills = {
         {
           skillName: "Figma",
           fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Adobe Photoshop",
+          fontAwesomeClassname: "simple-icons:photoshop",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Adobe Illustrator",
+          fontAwesomeClassname: "simple-icons:illustrator",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "Sketch",
+          fontAwesomeClassname: "simple-icons:sketch",
+          style: {
+            color: "rgb(253, 173, 0)",
+          },
+        },
+        {
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "simple-icons:XD",
           style: {
             color: "#F24E1E",
           },
