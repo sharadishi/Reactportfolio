@@ -5,6 +5,7 @@
   cursor: pointer;
   flex: 0 1 32%;
   margin: auto;
+  display: none;
 }
 .repo-card-div:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
@@ -40,7 +41,9 @@
 }
 
 .repo-name-div {
-  display: flex;
+  /* display: flex;
+   */
+  display: none;
   align-items: center;
 }
 

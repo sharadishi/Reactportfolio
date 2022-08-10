@@ -86,9 +86,9 @@ class Projects extends Component {
         </div>
 
         <div className="repo-cards-div-main">
-          {PublicationData.data.map((repo) => {
+          {/* {PublicationData.data.map((repo) => {
             return <PublicationCard repo={repo} theme={theme} />;
-          })}
+          })} */}
         </div>
 
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
