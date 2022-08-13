@@ -132,26 +132,6 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 - To deploy your website, you have two options. First you need to create a github repository with the name `<your-github-username>.github.io`. Please don't give it any other name.
 - Now, you need to generate a production build and deploy the website.
 
-**Option 1:**
-
-- Run `npm run build` to generate the production build folder.
-- Enter the build folder, `git init` and push the generated code to the `master` branch of your new repository on github. That's it. It's Done.
-- You may need to `git init` and force push at every new build.
-
-**Option 2 (will not work with [user pages](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)):**
-
-- Run `npm run deploy` to build and create a branch called `gh-pages`. It will push the `build` files to that branch.
-- The last step in deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
-
-Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
-If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
-
-<p align="center"> 
-    <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
-    ![image](https://user-images.githubusercontent.com/53608634/184472385-1d6074ee-9279-41e9-bf30-525ee42e8f85.png)
-  </a>
-</p>
-
 # Technologies used 🛠️
 
 - [React](https://reactjs.org/)
