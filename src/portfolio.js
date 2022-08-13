@@ -137,17 +137,31 @@ const skills = {
           },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
+          skillName: "Tailwind CSS",
+          fontAwesomeClassname: "logos:tailwindcss-icon",
+          // style: {
+          //   color: "#2C8EBB",
+          // },
         },
         {
           skillName: "GitHub",
           fontAwesomeClassname: "simple-icons:github",
           style: {
             color: "#000",
+          },
+        },
+        {
+          skillName: "ANT Design",
+          fontAwesomeClassname: "simple-icons:antdesign",
+          style: {
+            color: "#30a4ff",
+          },
+        },
+        {
+          skillName: "Material-UI",
+          fontAwesomeClassname: "simple-icons:mui",
+          style: {
+            color: "#237fff",
           },
         },
         // {
@@ -222,16 +236,23 @@ const skills = {
         },
         {
           skillName: "Adobe Photoshop",
-          fontAwesomeClassname: "simple-icons:adobe",
+          fontAwesomeClassname: "cib:adobe-photoshop",
           style: {
-            color: "#F24E1E",
+            color: "#30a3f7",
           },
         },
         {
           skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobe",
+          fontAwesomeClassname: "cib:adobe-illustrator",
           style: {
-            color: "#F24E1E",
+            color: "#f19503",
+          },
+        },
+        {
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "ci:adobe-xd",
+          style: {
+            color: "#450135",
           },
         },
         {
@@ -239,13 +260,6 @@ const skills = {
           fontAwesomeClassname: "simple-icons:sketch",
           style: {
             color: "rgb(253, 173, 0)",
-          },
-        },
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobe",
-          style: {
-            color: "#F24E1E",
           },
         },
       ],
