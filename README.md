@@ -148,7 +148,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 
 <p align="center"> 
     <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
-    <img src="http://img.youtube.com/vi/IwBS39TOmpA/0.jpg"></img>
+    ![image](https://user-images.githubusercontent.com/53608634/184472385-1d6074ee-9279-41e9-bf30-525ee42e8f85.png)
   </a>
 </p>
 
